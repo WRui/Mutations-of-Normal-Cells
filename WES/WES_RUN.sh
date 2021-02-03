@@ -1,0 +1,1 @@
+bash WES_SNP_work_All.sh /gpfs1/tangfuchou_pkuhpc/tangfuchou_test/wangrui/Project/Immune_Mutation/Exon /gpfs1/tangfuchou_pkuhpc/tangfuchou_test/wangrui/Project/Immune_Mutation/Exon/bin/M8_Sample.txt M8-PBMC-All

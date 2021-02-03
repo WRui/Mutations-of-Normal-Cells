@@ -1,0 +1,1 @@
+bash ./bin/RNA_SNP_work_All.sh /gpfs1/tangfuchou_pkuhpc/tangfuchou_test/wangrui/Project/Immune_Mutation/scRNA_CRC P0123 /gpfs1/tangfuchou_pkuhpc/tangfuchou_test/wangrui/Project/Immune_Mutation/scRNA_CRC/P0123_SampleList.txt
